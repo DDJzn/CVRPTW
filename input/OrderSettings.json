@@ -1,0 +1,24 @@
+{
+    "1":{
+        "startstation": 1001,
+        "endstation": 3001,
+        "number_passengers": 0,
+        "number_packages": 5,
+        "starttime_earliest": 0,
+        "starttime_lastest": 40,
+        "endtime_earliest": 0,
+        "endtime_lastest": 160,
+        "profit": 500
+    },
+    "2":{
+        "startstation": 2001,
+        "endstation": 3002,
+        "number_passengers": 0,
+        "number_packages": 5,
+        "starttime_earliest": 0,
+        "starttime_lastest": 60,
+        "endtime_earliest": 0,
+        "endtime_lastest": 250,
+        "profit": 500
+    }
+}
